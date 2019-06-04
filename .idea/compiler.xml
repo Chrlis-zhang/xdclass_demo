@@ -9,6 +9,10 @@
         <module name="xdclass_springboot" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xdclass_demo" target="1.8" />
+      <module name="xdclass_springboot" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

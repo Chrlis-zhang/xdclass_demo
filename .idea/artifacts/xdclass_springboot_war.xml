@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xdclass_springboot:war">
+    <output-path>$PROJECT_DIR$/xdclass_springboot/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>xdclass_springboot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="xdclass_springboot-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="xdclass_springboot:war exploded" />
+    </root>
+  </artifact>
+</component>
