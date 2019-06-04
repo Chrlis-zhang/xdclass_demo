@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "test",
+      "type": "net.xdclass.test.demo.domain.ServerSettings",
+      "sourceType": "net.xdclass.test.demo.domain.ServerSettings"
+    }
+  ],
+  "properties": [
+    {
+      "name": "test.domain",
+      "type": "java.lang.String",
+      "sourceType": "net.xdclass.test.demo.domain.ServerSettings"
+    },
+    {
+      "name": "test.name",
+      "type": "java.lang.String",
+      "sourceType": "net.xdclass.test.demo.domain.ServerSettings"
+    }
+  ],
+  "hints": []
+}

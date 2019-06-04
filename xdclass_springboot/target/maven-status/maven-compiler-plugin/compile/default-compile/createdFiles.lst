@@ -1,0 +1,7 @@
+net\xdclass\demo\controller\GetController.class
+net\xdclass\demo\controller\OtherHttpController.class
+net\xdclass\demo\controller\SampleController.class
+net\xdclass\demo\xdclassApplication.class
+net\xdclass\demo\domain\User.class
+net\xdclass\demo\domain\JsonData.class
+net\xdclass\demo\controller\FileController.class
